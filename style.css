@@ -20,8 +20,10 @@
 
     @media only screen and (max-width:688px) {
         
-        .banner{width:100%;flex-direction: column;}
-        .players{grid-template-columns: repeat(1,1fr);width:100%; align-items:center;}
+        .banner{flex-direction: column;width:200%;height:200%;align-items:  center;}
+        .players{grid-template-columns: repeat(1,1fr);width:150%; align-items:center;padding-left: }
+        .player img{width:100%}
+        
         .foot-img{align-items:center;width:90%}
         .copyright{align-items:center;width:80%}
     }
