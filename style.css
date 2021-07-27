@@ -20,7 +20,7 @@
 
     @media only screen and (max-width:688px) {
         
-        .banner{width:100%}
+        .banner{width:100%;flex-direction: column;}
         .players{grid-template-columns: repeat(1,1fr);width:100%; align-items:center;}
         .foot-img{align-items:center;width:90%}
         .copyright{align-items:center;width:80%}
