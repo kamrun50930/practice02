@@ -21,9 +21,9 @@
     @media only screen and (max-width:688px) {
         
         .banner{flex-direction: column;width:200%;height:200%;align-items:  center;}
-        .players{grid-template-columns: repeat(1,1fr);width:150%; align-items:center;padding-left: }
+        .players{grid-template-columns: repeat(1,1fr);width:150%;padding-left: }
         .player img{width:100%}
         
-        .foot-img{align-items:center;width:90%}
-        .copyright{align-items:center;width:80%}
+        .foot-img{width:90%}
+        .copyright{width:80%}
     }
