@@ -21,7 +21,7 @@
     @media only screen and (max-width:688px) {
         
         .banner{flex-direction: column;width:200%;height:200%;align-items:  center;}
-        .players{grid-template-columns: repeat(1,1fr);width:150%;padding-left: }
+        .players{grid-template-columns: repeat(1,1fr);width:100%;padding-left: 5px; }
         .player img{width:100%}
         
         .foot-img{width:90%}
